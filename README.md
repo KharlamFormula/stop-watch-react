@@ -1,4 +1,6 @@
 ## React Stopwatch
+https://superlative-squirrel-127c82.netlify.app/
+
 - Секундомір із використанням React Hooks
 - Реалізувала логіку стану за допомогою useReducer замість кількох useState
 - Керувала життєвим циклом таймера через useEffect та useRef
