@@ -1,5 +1,5 @@
 ## React Stopwatch
-https://superlative-squirrel-127c82.netlify.app/
+https://stop-watch-react.harlamformula.workers.dev/
 
 - Секундомір із використанням React Hooks
 - Реалізувала логіку стану за допомогою useReducer замість кількох useState
